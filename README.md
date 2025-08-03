@@ -1,4 +1,4 @@
-# curen_see
+# CurrenSee
 
 A Flutter project made for a personal course using Java (Spring Boot) for backend and MongoDB for the database.
 CurrenSee is an application for converting currencies, checking live exchange rates and reading articles on the latest stock and financial market news.
