@@ -17,6 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 To run, this project will also need MongoDB Compass installed and with an established connection. 
-- If your connection isn't using the default settings, make sure the connection string matches the mongo uri in the application.properties file
+- If your connection isn't using the default settings, make sure the connection string matches the mongo uri in the application.properties file in the recources folder of the springboot folder.
 
 This project also uses Spring Boot which requires IntelliJ Ultimate IDE or Eclipse IDE.
+ All files for the backend are in the "CurrenSeeSpringBoot" folder
